@@ -1,8 +1,8 @@
 # Илья Чуприн
 _Способы связи:_
-    *VK page: https://vk.com/grafdonskiy
-    *telegram: @grafdonskiy
-    *phone number: +7(953)-123-37-75
+* **VK page**: https://vk.com/grafdonskiy
+* **telegram**: @grafdonskiy
+* **Phone number**: +7(953)-123-37-75
 
 **О себе**
 ![photo_2022-03-22_09-17-46](https://user-images.githubusercontent.com/86683685/172211122-e2d9f5cd-76a5-4b09-8817-1396973c166b.jpg)
